@@ -14,4 +14,4 @@ Welcome to my Data Science Portfolio! This repository features a curated collect
 
 - **Code Snippets:** Essential code examples that illustrate the data science tools, libraries, and frameworks (e.g., Scikit-Learn, TensorFlow, Pandas, etc.) used in these projects.
 
--This portfolio reflects my journey as a data scientist, showcasing my ability to leverage data science to drive insights, predictions, and solutions across various domains 
+This portfolio reflects my journey as a data scientist, showcasing my ability to leverage data science to drive insights, predictions, and solutions across various domains 
