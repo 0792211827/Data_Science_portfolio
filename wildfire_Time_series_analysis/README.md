@@ -8,6 +8,8 @@ To forecast wildfire occurrences, we compared two time series models:
 
 - ARIMA (AutoRegressive Integrated Moving Average)
 - SARIMAX (Seasonal AutoRegressive Integrated Moving-Average with Exogenous Variables)
+
+
 By evaluating the performance of both models, we identified trends, seasonality, and anomalies, laying the groundwork for robust wildfire prediction and prevention strategies.
 
 ## Aim
