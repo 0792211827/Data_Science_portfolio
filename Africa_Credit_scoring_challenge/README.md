@@ -1,6 +1,5 @@
 # Loan Default Prediction Challenge
 
-## Title: Loan Default Prediction Challenge
 
 ## Overview:
 Welcome to the Loan Default Prediction Challenge! In response to the increasing need for accurate risk assessment in Africa’s rapidly growing financial markets, this challenge focuses on helping financial institutions predict loan defaults effectively. The objective is to build a robust and generalizable machine learning model that assesses the likelihood of loan defaults for both existing customers and new applicants.
